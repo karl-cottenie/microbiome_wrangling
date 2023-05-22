@@ -42,7 +42,7 @@ vc_d1_groups =
   arrange(desc(n)) |> 
   # for testing purposes work w/ the first 3 groups
   pull(taxonomy2)
-vc_d1_groups[1:3]
+vc_d1_groups[1:4]
 
 ## _ work it out w/ one group --------
 
